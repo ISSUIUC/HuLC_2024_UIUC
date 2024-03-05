@@ -19,3 +19,7 @@
 "sim_ vertical_descent_comparison.ipynb"
 - Validation of standard and lateral implementations of Roberts' Model using experimental data
 - Produces Fig. 10 b
+
+"SoilParameter_MonteCarlo.py"
+- Monte Carlo analysis of soil parameters
+- Produces Fig. 3
